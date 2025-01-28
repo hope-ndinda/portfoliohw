@@ -7,12 +7,13 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Hope Ndindabahizi</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I am a passionate software developer and embedded systems enthusiast with experience in Python,Node,React, SQL and PostgreSQL.
+         I’ve worked on innovative projects, from building ICT solutions for the community. 
+         My interests include solving real-world challenges through technology, cybersecurity, and software innovation.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:hopenishimwe5@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

@@ -1,24 +1,24 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Umuvumba",
+    "imageSrc": "projects/umuvumba.png",
+    "description": "This is a project made to help to allocate waters according to its quality.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Smart cities",
+    "imageSrc": "projects/smartcities.jpg",
+    "description": "This is a project made to learn the latest languages by building an app to help monitor cities.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Noteme",
+    "imageSrc": "projects/note.png",
+    "description": "This is a project made to learn the latest languages by building an app that is used to take notes an d make schedules.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
